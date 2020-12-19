@@ -1,6 +1,6 @@
 <!-- This is my github profile having curated list work history -->
 
-![Header](https://github.com/engr-umar-hayat/engr-umar-hayat/blob/main/engr.umarhayat.png "Header"){:height="50%" width="50%"}](https://www.linkedin.com/in/engr-umar-hayat/)
+[![Header](https://github.com/engr-umar-hayat/engr-umar-hayat/blob/main/engr.umarhayat.png "Header")](https://www.linkedin.com/in/engr-umar-hayat/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
